@@ -1,6 +1,0 @@
-{
-  "dependencies": {},
-  "devDependencies": {
-    "@sebastianwessel/surql-gen": "^1.1.3"
-  }
-}
